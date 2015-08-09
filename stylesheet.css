@@ -1,0 +1,34 @@
+body{
+	background-color: black;
+}
+p{
+	background-color:blue; 
+}
+.heavenly_body
+{
+	border-radius: 100%
+}
+#earth
+{
+	height: 50px;
+	width: 50px;
+}
+#sun
+{
+	background-color: yellow;
+	height: 160px;
+	width: 200px;
+}
+#small_star
+{
+	background-color: white;
+	height: 5px;
+	width: 5px;
+}
+#saturn{
+	height: 100px;
+	width: 100px;
+}
+#uranus{
+	
+}
